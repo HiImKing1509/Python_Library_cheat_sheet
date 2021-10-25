@@ -34,4 +34,3 @@
 | The library helps in the matrix manipulation of the data and the operations such as transpose, reshape, and many more | Its high productivity comes at a price |
 | NumPy enables enhanced performance and the management of garbage collection as it provides a dynamic data structure | The data types are hardware-native and not Python-native, so it costs heavily when we want to translate NumPy entities back to Python-equivalent entities and vice versa |
 | It allows us to improve the performance of the Machine Learning model | |
-
