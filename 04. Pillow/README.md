@@ -22,7 +22,7 @@
 ### Image Display
 > You can display images using Tk PhotoImage, BitmapImage and Windows DIB interface, which can be used with PythonWin and other Windows-based toolkits and many other Graphical User Interface (GUI) toolkits.
 >
-> For debugging purposes, there is a `show()` method to save the image to disk which calls the external display utility.
+> For debugging purposes, there is a ``show()`` method to save the image to disk which calls the external display utility.
 
 ### Image Processing
 > The Pillow library contains all the basic image processing functionality. You can do image resizing, rotation and transformation.
