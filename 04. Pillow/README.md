@@ -1,8 +1,10 @@
 # Python Pillow - Overview
 
-> Link: <a href="https://pillow.readthedocs.io/en/stable/">Pillow</a>
+> Website: <a href="https://pillow.readthedocs.io/en/stable/">Pillow</a>
 >
->  Github: <a href="https://github.com/python-pillow">The friendly PIL fork (Python Imaging Library)</a>
+> Github Repository: <a href="https://github.com/python-pillow">The friendly PIL fork (Python Imaging Library)</a>
+>
+> `Pillow` is the friendly PIL fork by <a href="https://github.com/python-pillow/Pillow/graphs/contributors">Alex Clark and Contributors</a>. PIL is the Python Imaging Library by Fredrik Lundh and Contributors.
 
 <img src="https://raw.githubusercontent.com/python-pillow/pillow-logo/main/pillow-logo-dark-text-1280x640.png">
 
